@@ -1,12 +1,16 @@
-### Hi there 👋
+### Hi I make games
+
+I work with Unity to make games
+Most of the games I made are on https://redwool.itch.io
+
+**Open Source Games I made**
+
+- 🐇 Garden Drummer
+- 🐦 Pong Bird
+
+I like video games
 
 <!--
-**Red-Wool/Red-Wool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
